@@ -1,8 +1,9 @@
-using NUnit.Framework;
 using UnityEngine;
-using UnityEngine.UI;
 using System.Collections.Generic;
 using TMPro;
+using NUnit.Framework;
+using UnityEngine.UI;
+using System;
 
 public class GameManager : MonoBehaviour
 {
@@ -15,8 +16,12 @@ public class GameManager : MonoBehaviour
 
     [Header("UI Elements")]
     [SerializeField] private Transform slotContainer;
-    [SerializeField] private Transform tableArea;
+    [SerializeField] private Transform[] tableArea;
     [SerializeField] private Transform maskVisualContainer;
+    [SerializeField] private GameObject[] spriteJadi;
+    [SerializeField] private GameObject[] spriteBelumJadi;
+
+    public static Action OnItemComplete;
 
     private int currentMaskIndex = 0;
     private List<LetterSlot> activeSlots = new List<LetterSlot>();
@@ -33,22 +38,30 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
+        foreach (Transform bahan in maskVisualContainer)
+        {
+            bahan.gameObject.SetActive(false);
+        }
+
+        for (int i = 0; i < maskVisualContainer.childCount / 2; i++)
+        {
+            Debug.Log("Reset visual bahan " + maskVisualContainer.GetChild(i).name);
+            maskVisualContainer.GetChild(i).gameObject.SetActive(true);
+        }
+
         if (maskData != null)
         {
             StartNewIngredient();
         }
 
-        foreach (Transform bahan in maskVisualContainer)
-        {
-            bahan.gameObject.SetActive(false);
-        }
     }
 
     private void StartNewIngredient()
     {
         // bersihkan slot dan area meja
         foreach (Transform child in slotContainer) Destroy(child.gameObject);
-        foreach (Transform child in tableArea) Destroy(child.gameObject);
+        
+        //foreach (Transform child in tableArea) Destroy(child.gameObject);
         activeSlots.Clear();
 
         // set mask visual
@@ -67,16 +80,32 @@ public class GameManager : MonoBehaviour
         // spawn letters di area meja
         foreach (char c in characters)
         {
-            GameObject newLetter = Instantiate(letterObjekPrefab, tableArea);
-            newLetter.GetComponentInChildren<TextMeshProUGUI>().text = c.ToString();
+            // 1. SETIAP huruf akan memilih antara index 0 (kiri) atau 1 (kanan)
+            int randomIndex = UnityEngine.Random.Range(0, tableArea.Length);
+            Transform tablePick = tableArea[randomIndex];
 
+            // 2. Instantiate ke area yang terpilih
+            GameObject newLetter = Instantiate(letterObjekPrefab, tablePick);
+
+            // 3. Setup data huruf
+            newLetter.GetComponentInChildren<TextMeshProUGUI>().text = c.ToString();
             newLetter.GetComponent<DragnDrop>().hurufSaya = c;
 
-            RectTransform rect = newLetter.GetComponent<RectTransform>();
-            rect.anchoredPosition = new Vector2(Random.Range(-400, 400), Random.Range(-250, 250));
+            // 4. Atur posisi acak di DALAM area yang terpilih tersebut
+            RectTransform areaRect = tablePick.GetComponent<RectTransform>();
+            RectTransform letterRect = newLetter.GetComponent<RectTransform>();
+
+            // Ambil batas aman agar huruf tidak keluar dari kotak putih di gambar
+            float xLimit = (areaRect.rect.width / 2) * 0.8f;
+            float yLimit = (areaRect.rect.height / 2) * 0.8f;
+
+            letterRect.anchoredPosition = new Vector2(
+                UnityEngine.Random.Range(-xLimit, xLimit),
+                UnityEngine.Random.Range(-yLimit, yLimit)
+            );
         }
 
-        
+
     }
 
     void CheckIngredientComplete()
@@ -121,22 +150,31 @@ public class GameManager : MonoBehaviour
     {
         // Cek apakah index sekarang masih dalam rentang jumlah child yang tersedia
         // Ini mencegah error "Index Out of Range" kalau jumlah child di Container beda sama di SO
-        if (currentMaskIndex - 1 < maskVisualContainer.childCount)
+        if (currentMaskIndex - 1 < maskVisualContainer.childCount / 2)
         {
-            // currentIngredientIndex - 1 karena index array/child mulai dari 0
-            // sedangkan currentIngredientIndex bertambah SETELAH ejaan selesai
             int visualIndex = currentMaskIndex - 1;
+            int totalChild = maskVisualContainer.childCount;
+            int offset = totalChild / 2; // Ini adalah jarak ke setengah bagian sisanya
 
-            // Set aktif objek visual bahan yang baru saja selesai dieja
-            maskVisualContainer.GetChild(visualIndex).gameObject.SetActive(true);
+            // 1. Matikan objek bayangan (di setengah pertama)
+            GameObject objekBayangan = maskVisualContainer.GetChild(visualIndex).gameObject;
+            objekBayangan.SetActive(false);
+            Debug.Log("Mematikan " + objekBayangan.name);
 
-            Debug.Log("Bahan " + maskData.ingredientNames[visualIndex] + " Muncul!");
+            // 2. Nyalakan objek jadi (di posisi visualIndex + offset)
+            // Jika 8 child, visualIndex 0 pasangannya adalah 0 + 4 = 4
+            // Jika 6 child, visualIndex 0 pasangannya adalah 0 + 3 = 3
+            GameObject objekJadi = maskVisualContainer.GetChild(visualIndex + offset).gameObject;
+            objekJadi.SetActive(true);
+
+            Debug.Log("Menukar " + objekBayangan.name + " dengan " + objekJadi.name);
         }
     }
 
     void FinishLevel()
     {
         Debug.Log("SEMUA BAHAN SELESAI! TOPENG JADI!");
+        OnItemComplete?.Invoke();
         // Munculkan tombol Next Level atau Panel Win di sini
     }
 }

@@ -1,0 +1,3224 @@
+fileFormatVersion: 2
+guid: 55c1ff4f0f22e154cafd7299e2bb3402
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2667495258810006020
+    second: Origami_0
+  - first:
+      213: 2339514705322803098
+    second: Origami_1
+  - first:
+      213: -3777280775245448359
+    second: Origami_2
+  - first:
+      213: -2805148063436424289
+    second: Origami_3
+  - first:
+      213: 7628790589662504836
+    second: Origami_4
+  - first:
+      213: 986772996500244732
+    second: Origami_5
+  - first:
+      213: -5487113930511073331
+    second: Origami_6
+  - first:
+      213: -4427454345007889355
+    second: Origami_7
+  - first:
+      213: 7606222378350176863
+    second: Origami_8
+  - first:
+      213: -1793395676583247967
+    second: Origami_9
+  - first:
+      213: -8974048189737515744
+    second: Origami_10
+  - first:
+      213: 8476071626347530681
+    second: Origami_11
+  - first:
+      213: -5406947370388542849
+    second: Origami_12
+  - first:
+      213: -7828731290237146190
+    second: Origami_13
+  - first:
+      213: 8396022048363466102
+    second: Origami_14
+  - first:
+      213: 6599045873469191674
+    second: Origami_15
+  - first:
+      213: 5893904942798642424
+    second: Origami_16
+  - first:
+      213: -291691807324092246
+    second: Origami_17
+  - first:
+      213: -8157532196448683643
+    second: Origami_18
+  - first:
+      213: -2506526341729442078
+    second: Origami_19
+  - first:
+      213: -1804562821003949298
+    second: Origami_20
+  - first:
+      213: -3512575312663968664
+    second: Origami_21
+  - first:
+      213: -6000301671444753944
+    second: Origami_22
+  - first:
+      213: -7373365612453659178
+    second: Origami_23
+  - first:
+      213: -3474898092946606786
+    second: Origami_24
+  - first:
+      213: 4393539630384343835
+    second: Origami_25
+  - first:
+      213: 2281527692178033186
+    second: Origami_26
+  - first:
+      213: 8075124174456384842
+    second: Origami_27
+  - first:
+      213: -7560885807803372081
+    second: Origami_28
+  - first:
+      213: -1978427931636006139
+    second: Origami_29
+  - first:
+      213: -7794298491095788864
+    second: Origami_30
+  - first:
+      213: -8592710923034428877
+    second: Origami_31
+  - first:
+      213: -3012371780463639801
+    second: Origami_32
+  - first:
+      213: 1785543229476685221
+    second: Origami_33
+  - first:
+      213: -4652946082262004715
+    second: Origami_34
+  - first:
+      213: -6889373606066879889
+    second: Origami_35
+  - first:
+      213: -3090133215261865204
+    second: Origami_36
+  - first:
+      213: -275392308485166190
+    second: Origami_37
+  - first:
+      213: -9064282449251434707
+    second: Origami_38
+  - first:
+      213: 5848985113699222162
+    second: Origami_39
+  - first:
+      213: 5104152782204496395
+    second: Origami_40
+  - first:
+      213: -2457212267072075077
+    second: Origami_41
+  - first:
+      213: -3617577044377026215
+    second: Origami_42
+  - first:
+      213: -4386355359114816929
+    second: Origami_43
+  - first:
+      213: -7989582421920881011
+    second: Origami_44
+  - first:
+      213: -9133884419756510363
+    second: Origami_45
+  - first:
+      213: 7744985236538450646
+    second: Origami_46
+  - first:
+      213: 6261072753666264048
+    second: Origami_47
+  - first:
+      213: 5523354022155730119
+    second: Origami_48
+  - first:
+      213: 38862683070902365
+    second: Origami_49
+  - first:
+      213: -7420693390506128969
+    second: Origami_50
+  - first:
+      213: 4715639918405179047
+    second: Origami_51
+  - first:
+      213: -216051875753735002
+    second: Origami_52
+  - first:
+      213: -687006458661766419
+    second: Origami_53
+  - first:
+      213: -3818384343582556736
+    second: Origami_54
+  - first:
+      213: -65435133886218954
+    second: Origami_55
+  - first:
+      213: -1067991463286527568
+    second: Origami_56
+  - first:
+      213: -2463969544612370742
+    second: Origami_57
+  - first:
+      213: -6190639014005474957
+    second: Origami_58
+  - first:
+      213: 604464577170553873
+    second: Origami_59
+  - first:
+      213: -2462885893738097599
+    second: Origami_60
+  - first:
+      213: 6506442503407659002
+    second: Origami_61
+  - first:
+      213: 8746133761941742225
+    second: Origami_62
+  - first:
+      213: 358819914048166513
+    second: Origami_63
+  - first:
+      213: -4522293702626840997
+    second: Origami_64
+  - first:
+      213: 2618678968422508489
+    second: Origami_65
+  - first:
+      213: 188063621479332679
+    second: Origami_66
+  - first:
+      213: -65304768578058331
+    second: Origami_67
+  - first:
+      213: 5266910995316035910
+    second: Origami_68
+  - first:
+      213: -8071069887490365460
+    second: Origami_69
+  - first:
+      213: 6303849044316528731
+    second: Origami_70
+  - first:
+      213: 201389324518392881
+    second: Origami_71
+  - first:
+      213: 8376525392711174197
+    second: Origami_72
+  - first:
+      213: 7509624828643231383
+    second: Origami_73
+  - first:
+      213: 2414053320102374410
+    second: Origami_74
+  - first:
+      213: 690896115936477142
+    second: Origami_75
+  - first:
+      213: 4151122011673755005
+    second: Origami_76
+  - first:
+      213: -5291821869786289902
+    second: Origami_77
+  - first:
+      213: -2509118343624112471
+    second: Origami_78
+  - first:
+      213: 179968552345325524
+    second: Origami_79
+  - first:
+      213: -9144786006992865913
+    second: Origami_80
+  - first:
+      213: -689085181810330446
+    second: Origami_81
+  - first:
+      213: 5139294782204952575
+    second: Origami_82
+  - first:
+      213: 5580758775849180878
+    second: Origami_83
+  - first:
+      213: 1288189649228075929
+    second: Origami_84
+  - first:
+      213: -5340842588138523928
+    second: Origami_85
+  - first:
+      213: 5159607248700633954
+    second: Origami_86
+  - first:
+      213: -1488816087154546505
+    second: Origami_87
+  - first:
+      213: -7994874620133328179
+    second: Origami_88
+  - first:
+      213: -2007475209328539887
+    second: Origami_89
+  - first:
+      213: -3541764633754350042
+    second: Origami_90
+  - first:
+      213: -8678123412311908740
+    second: Origami_91
+  - first:
+      213: 2449641491514169004
+    second: Origami_92
+  - first:
+      213: -4265439768952851009
+    second: Origami_93
+  - first:
+      213: -4507619160490708047
+    second: Origami_94
+  - first:
+      213: -2175413210456689649
+    second: Origami_95
+  - first:
+      213: 2461289464154733620
+    second: Origami_96
+  - first:
+      213: 893639225992041349
+    second: Origami_97
+  - first:
+      213: 3239582982242207717
+    second: Origami_98
+  - first:
+      213: 6764727206156651754
+    second: Origami_99
+  - first:
+      213: 7973583811984751984
+    second: Origami_100
+  - first:
+      213: 2939420102955702711
+    second: Origami_101
+  - first:
+      213: 5416731743605653510
+    second: Origami_102
+  - first:
+      213: -264569999092587564
+    second: Origami_103
+  - first:
+      213: -2067292765347663008
+    second: Origami_104
+  - first:
+      213: 2381248735011124193
+    second: Origami_105
+  - first:
+      213: -9174943535199523195
+    second: Origami_106
+  - first:
+      213: 5401273263297585381
+    second: Origami_107
+  - first:
+      213: -1888029443476826733
+    second: Origami_108
+  - first:
+      213: 2208954378364078601
+    second: Origami_109
+  - first:
+      213: -8566717918785350908
+    second: Origami_110
+  - first:
+      213: -3059225464924176815
+    second: Origami_111
+  - first:
+      213: -550351684633747506
+    second: Origami_112
+  - first:
+      213: -5148183372768488741
+    second: Origami_113
+  - first:
+      213: -7328114800005252506
+    second: Origami_114
+  - first:
+      213: -5384859260291319423
+    second: Origami_115
+  - first:
+      213: -4202545332868887522
+    second: Origami_116
+  - first:
+      213: 7807632673281319640
+    second: Origami_117
+  - first:
+      213: 3529577496194885158
+    second: Origami_118
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Origami_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 138
+        width: 5732
+        height: 5365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf54792f1372bfad0800000000000000
+      internalID: -2667495258810006020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_1
+      rect:
+        serializedVersion: 2
+        x: 5684
+        y: 3703
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f719daa30a77020800000000000000
+      internalID: 2339514705322803098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_2
+      rect:
+        serializedVersion: 2
+        x: 5689
+        y: 3705
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b3596d527649bc0800000000000000
+      internalID: -3777280775245448359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_3
+      rect:
+        serializedVersion: 2
+        x: 5703
+        y: 3695
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b3f78d2bc1219d0800000000000000
+      internalID: -2805148063436424289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_4
+      rect:
+        serializedVersion: 2
+        x: 5686
+        y: 3677
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4872daa4f98eed960800000000000000
+      internalID: 7628790589662504836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_5
+      rect:
+        serializedVersion: 2
+        x: 5690
+        y: 3668
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8485aefc8b1bd00800000000000000
+      internalID: 986772996500244732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_6
+      rect:
+        serializedVersion: 2
+        x: 5706
+        y: 3682
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf3ac1c3fad9d3b0800000000000000
+      internalID: -5487113930511073331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_7
+      rect:
+        serializedVersion: 2
+        x: 5714
+        y: 3654
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5348b8a1bb58e82c0800000000000000
+      internalID: -4427454345007889355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_8
+      rect:
+        serializedVersion: 2
+        x: 5688
+        y: 3632
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a603024fabe8960800000000000000
+      internalID: 7606222378350176863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_9
+      rect:
+        serializedVersion: 2
+        x: 5705
+        y: 3628
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afb88b42249c17e0800000000000000
+      internalID: -1793395676583247967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_10
+      rect:
+        serializedVersion: 2
+        x: 5744
+        y: 3658
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025457dc7b6c57380800000000000000
+      internalID: -8974048189737515744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_11
+      rect:
+        serializedVersion: 2
+        x: 5747
+        y: 3647
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9463b6c3e01a570800000000000000
+      internalID: 8476071626347530681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_12
+      rect:
+        serializedVersion: 2
+        x: 5714
+        y: 3637
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a22cc830aa6f4b0800000000000000
+      internalID: -5406947370388542849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_13
+      rect:
+        serializedVersion: 2
+        x: 5721
+        y: 3597
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbed63be52ca5390800000000000000
+      internalID: -7828731290237146190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_14
+      rect:
+        serializedVersion: 2
+        x: 5736
+        y: 3640
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d4d07a199a48470800000000000000
+      internalID: 8396022048363466102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_15
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 3621
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af573a83245849b50800000000000000
+      internalID: 6599045873469191674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_16
+      rect:
+        serializedVersion: 2
+        x: 5759
+        y: 3643
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc9e67715b5bc150800000000000000
+      internalID: 5893904942798642424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_17
+      rect:
+        serializedVersion: 2
+        x: 5674
+        y: 3580
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa84e80c8d3b3fbf0800000000000000
+      internalID: -291691807324092246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_18
+      rect:
+        serializedVersion: 2
+        x: 5698
+        y: 3618
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5893dd210bf9ace80800000000000000
+      internalID: -8157532196448683643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_19
+      rect:
+        serializedVersion: 2
+        x: 5710
+        y: 3616
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6ae058297073dd0800000000000000
+      internalID: -2506526341729442078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_20
+      rect:
+        serializedVersion: 2
+        x: 5718
+        y: 3624
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bce2fdca7e4f6e0800000000000000
+      internalID: -1804562821003949298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_21
+      rect:
+        serializedVersion: 2
+        x: 5739
+        y: 3611
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8648bd11d53d04fc0800000000000000
+      internalID: -3512575312663968664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_22
+      rect:
+        serializedVersion: 2
+        x: 5767
+        y: 3626
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e15a58bb65aabca0800000000000000
+      internalID: -6000301671444753944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_23
+      rect:
+        serializedVersion: 2
+        x: 5675
+        y: 3544
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd7e9e8a0b8ca990800000000000000
+      internalID: -7373365612453659178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_24
+      rect:
+        serializedVersion: 2
+        x: 5686
+        y: 3571
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e353c33689ea6cfc0800000000000000
+      internalID: -3474898092946606786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_25
+      rect:
+        serializedVersion: 2
+        x: 5686
+        y: 3488
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1be8af040df8fc30800000000000000
+      internalID: 4393539630384343835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_26
+      rect:
+        serializedVersion: 2
+        x: 5692
+        y: 3600
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a0d75195d99af10800000000000000
+      internalID: 2281527692178033186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_27
+      rect:
+        serializedVersion: 2
+        x: 5695
+        y: 3487
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d64af17aa901070800000000000000
+      internalID: 8075124174456384842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_28
+      rect:
+        serializedVersion: 2
+        x: 5698
+        y: 3575
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd6696ca66521790800000000000000
+      internalID: -7560885807803372081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_29
+      rect:
+        serializedVersion: 2
+        x: 5699
+        y: 3582
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503002147463b84e0800000000000000
+      internalID: -1978427931636006139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_30
+      rect:
+        serializedVersion: 2
+        x: 5701
+        y: 3597
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c25fdc71d615d390800000000000000
+      internalID: -7794298491095788864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_31
+      rect:
+        serializedVersion: 2
+        x: 5707
+        y: 3595
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33af9ee01fe80c880800000000000000
+      internalID: -8592710923034428877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_32
+      rect:
+        serializedVersion: 2
+        x: 5707
+        y: 3533
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703cd0e63d7e136d0800000000000000
+      internalID: -3012371780463639801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_33
+      rect:
+        serializedVersion: 2
+        x: 5709
+        y: 3576
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5cf046b1687c810800000000000000
+      internalID: 1785543229476685221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_34
+      rect:
+        serializedVersion: 2
+        x: 5710
+        y: 3519
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c4ab7c03a6d6fb0800000000000000
+      internalID: -4652946082262004715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_35
+      rect:
+        serializedVersion: 2
+        x: 5711
+        y: 3590
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f628e6de4370460a0800000000000000
+      internalID: -6889373606066879889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_36
+      rect:
+        serializedVersion: 2
+        x: 5712
+        y: 3568
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b4ea38634ad15d0800000000000000
+      internalID: -3090133215261865204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_37
+      rect:
+        serializedVersion: 2
+        x: 5713
+        y: 3613
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bedde872c9d2cf0800000000000000
+      internalID: -275392308485166190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_38
+      rect:
+        serializedVersion: 2
+        x: 5713
+        y: 3470
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f7f841323353280800000000000000
+      internalID: -9064282449251434707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_39
+      rect:
+        serializedVersion: 2
+        x: 5717
+        y: 3535
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292079eb8f4cb2150800000000000000
+      internalID: 5848985113699222162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_40
+      rect:
+        serializedVersion: 2
+        x: 5723
+        y: 3502
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0aee9699e795d640800000000000000
+      internalID: 5104152782204496395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_41
+      rect:
+        serializedVersion: 2
+        x: 5724
+        y: 3523
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbacf63467a36edd0800000000000000
+      internalID: -2457212267072075077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_42
+      rect:
+        serializedVersion: 2
+        x: 5729
+        y: 3562
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951cc4a48d8cbcdc0800000000000000
+      internalID: -3617577044377026215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_43
+      rect:
+        serializedVersion: 2
+        x: 5730
+        y: 3547
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5294517a098023c0800000000000000
+      internalID: -4386355359114816929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_44
+      rect:
+        serializedVersion: 2
+        x: 5732
+        y: 3432
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8663bd2e1d4f1190800000000000000
+      internalID: -7989582421920881011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_45
+      rect:
+        serializedVersion: 2
+        x: 5736
+        y: 3511
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56330fc738ced3180800000000000000
+      internalID: -9133884419756510363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_46
+      rect:
+        serializedVersion: 2
+        x: 5744
+        y: 3593
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2e486b907bb7b60800000000000000
+      internalID: 7744985236538450646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_47
+      rect:
+        serializedVersion: 2
+        x: 5746
+        y: 3498
+        width: 65
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb87233f7cc3e650800000000000000
+      internalID: 6261072753666264048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_48
+      rect:
+        serializedVersion: 2
+        x: 5755
+        y: 3579
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc315b1835e6ac40800000000000000
+      internalID: 5523354022155730119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_49
+      rect:
+        serializedVersion: 2
+        x: 5771
+        y: 3502
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50b57387611a8000800000000000000
+      internalID: 38862683070902365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_50
+      rect:
+        serializedVersion: 2
+        x: 5774
+        y: 3484
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b90bc78da6640990800000000000000
+      internalID: -7420693390506128969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_51
+      rect:
+        serializedVersion: 2
+        x: 5776
+        y: 3571
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a651317581517140800000000000000
+      internalID: 4715639918405179047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_52
+      rect:
+        serializedVersion: 2
+        x: 5779
+        y: 3522
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac44a4b6fd600df0800000000000000
+      internalID: -216051875753735002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_53
+      rect:
+        serializedVersion: 2
+        x: 5789
+        y: 3508
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deaf01904434776f0800000000000000
+      internalID: -687006458661766419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_54
+      rect:
+        serializedVersion: 2
+        x: 5796
+        y: 3573
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd39d09baf520bc0800000000000000
+      internalID: -3818384343582556736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_55
+      rect:
+        serializedVersion: 2
+        x: 5805
+        y: 3449
+        width: 46
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63db1e8a717871ff0800000000000000
+      internalID: -65435133886218954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_56
+      rect:
+        serializedVersion: 2
+        x: 5813
+        y: 3567
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b928af2c6bbd21f0800000000000000
+      internalID: -1067991463286527568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_57
+      rect:
+        serializedVersion: 2
+        x: 5830
+        y: 3558
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6affbf0c83ecdd0800000000000000
+      internalID: -2463969544612370742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_58
+      rect:
+        serializedVersion: 2
+        x: 5834
+        y: 3528
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379778dbd9e661aa0800000000000000
+      internalID: -6190639014005474957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_59
+      rect:
+        serializedVersion: 2
+        x: 5844
+        y: 3515
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cbe81945d736800800000000000000
+      internalID: 604464577170553873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_60
+      rect:
+        serializedVersion: 2
+        x: 5846
+        y: 3502
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1449b6d145212ddd0800000000000000
+      internalID: -2462885893738097599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_61
+      rect:
+        serializedVersion: 2
+        x: 5847
+        y: 3544
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7ed17fbf68b4a50800000000000000
+      internalID: 6506442503407659002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_62
+      rect:
+        serializedVersion: 2
+        x: 5853
+        y: 3491
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192a6964152806970800000000000000
+      internalID: 8746133761941742225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_63
+      rect:
+        serializedVersion: 2
+        x: 5865
+        y: 3444
+        width: 28
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a5d2b8fc8caf400800000000000000
+      internalID: 358819914048166513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_64
+      rect:
+        serializedVersion: 2
+        x: 5905
+        y: 3476
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ee0fc66d59d31c0800000000000000
+      internalID: -4522293702626840997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_65
+      rect:
+        serializedVersion: 2
+        x: 5690
+        y: 3478
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c72c9db5aa675420800000000000000
+      internalID: 2618678968422508489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_66
+      rect:
+        serializedVersion: 2
+        x: 5698
+        y: 3482
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bf2790ed22c9200800000000000000
+      internalID: 188063621479332679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_67
+      rect:
+        serializedVersion: 2
+        x: 5759
+        y: 3465
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a704c2b8adf71ff0800000000000000
+      internalID: -65304768578058331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_68
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 3447
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641596b15a3d71940800000000000000
+      internalID: 5266910995316035910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_69
+      rect:
+        serializedVersion: 2
+        x: 5813
+        y: 3476
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7e8ce13bccdff80800000000000000
+      internalID: -8071069887490365460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_70
+      rect:
+        serializedVersion: 2
+        x: 5847
+        y: 3470
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b502c2c7e45cb7750800000000000000
+      internalID: 6303849044316528731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_71
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 3467
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134897d068a7bc200800000000000000
+      internalID: 201389324518392881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_72
+      rect:
+        serializedVersion: 2
+        x: 5708
+        y: 3459
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538c694c6756f3470800000000000000
+      internalID: 8376525392711174197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_73
+      rect:
+        serializedVersion: 2
+        x: 5712
+        y: 3446
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796cbb37efb873860800000000000000
+      internalID: 7509624828643231383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_74
+      rect:
+        serializedVersion: 2
+        x: 5826
+        y: 3462
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ced8554b0708120800000000000000
+      internalID: 2414053320102374410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_75
+      rect:
+        serializedVersion: 2
+        x: 5893
+        y: 3465
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df371f5b5e869900800000000000000
+      internalID: 690896115936477142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_76
+      rect:
+        serializedVersion: 2
+        x: 5895
+        y: 3451
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d7e1dd97fbb9930800000000000000
+      internalID: 4151122011673755005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_77
+      rect:
+        serializedVersion: 2
+        x: 5907
+        y: 3444
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219aeb4fb0caf86b0800000000000000
+      internalID: -5291821869786289902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_78
+      rect:
+        serializedVersion: 2
+        x: 5930
+        y: 3446
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a64edc0922dd2dd0800000000000000
+      internalID: -2509118343624112471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_79
+      rect:
+        serializedVersion: 2
+        x: 5692
+        y: 3437
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfc841e1706f7200800000000000000
+      internalID: 179968552345325524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_80
+      rect:
+        serializedVersion: 2
+        x: 5701
+        y: 3443
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7853a3ae391371180800000000000000
+      internalID: -9144786006992865913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_81
+      rect:
+        serializedVersion: 2
+        x: 5763
+        y: 3448
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4b5369da0ef66f0800000000000000
+      internalID: -689085181810330446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_82
+      rect:
+        serializedVersion: 2
+        x: 5830
+        y: 3429
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff38511061725740800000000000000
+      internalID: 5139294782204952575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_83
+      rect:
+        serializedVersion: 2
+        x: 5855
+        y: 3439
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece52abd986d27d40800000000000000
+      internalID: 5580758775849180878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_84
+      rect:
+        serializedVersion: 2
+        x: 5883
+        y: 3454
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993139d29a190e110800000000000000
+      internalID: 1288189649228075929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_85
+      rect:
+        serializedVersion: 2
+        x: 5895
+        y: 3437
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2b9bc86f381e5b0800000000000000
+      internalID: -5340842588138523928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_86
+      rect:
+        serializedVersion: 2
+        x: 5919
+        y: 3440
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263f457b47b9a9740800000000000000
+      internalID: 5159607248700633954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_87
+      rect:
+        serializedVersion: 2
+        x: 5668
+        y: 3400
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8244528a9a65be0800000000000000
+      internalID: -1488816087154546505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_88
+      rect:
+        serializedVersion: 2
+        x: 5712
+        y: 3347
+        width: 29
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaba2344ef7c0190800000000000000
+      internalID: -7994874620133328179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_89
+      rect:
+        serializedVersion: 2
+        x: 5732
+        y: 3430
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117c194eee30424e0800000000000000
+      internalID: -2007475209328539887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_90
+      rect:
+        serializedVersion: 2
+        x: 5746
+        y: 3404
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ec707a4df19dec0800000000000000
+      internalID: -3541764633754350042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_91
+      rect:
+        serializedVersion: 2
+        x: 5758
+        y: 3316
+        width: 50
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ed5243cbc119780800000000000000
+      internalID: -8678123412311908740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_92
+      rect:
+        serializedVersion: 2
+        x: 5767
+        y: 3418
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca692c035ffdef120800000000000000
+      internalID: 2449641491514169004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_93
+      rect:
+        serializedVersion: 2
+        x: 5793
+        y: 3432
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5bdb0212d1ec4c0800000000000000
+      internalID: -4265439768952851009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_94
+      rect:
+        serializedVersion: 2
+        x: 5805
+        y: 3429
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3f4348148b171c0800000000000000
+      internalID: -4507619160490708047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_95
+      rect:
+        serializedVersion: 2
+        x: 5813
+        y: 3410
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04790ff5316fc1e0800000000000000
+      internalID: -2175413210456689649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_96
+      rect:
+        serializedVersion: 2
+        x: 5814
+        y: 3433
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cba582ab1482220800000000000000
+      internalID: 2461289464154733620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_97
+      rect:
+        serializedVersion: 2
+        x: 5877
+        y: 3428
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5835c9e2428d66c00800000000000000
+      internalID: 893639225992041349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_98
+      rect:
+        serializedVersion: 2
+        x: 5882
+        y: 3394
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e782fcee8f45fc20800000000000000
+      internalID: 3239582982242207717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_99
+      rect:
+        serializedVersion: 2
+        x: 5898
+        y: 3408
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec436d8d8321ed50800000000000000
+      internalID: 6764727206156651754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_100
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 3409
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07df72c2b3cd7ae60800000000000000
+      internalID: 7973583811984751984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_101
+      rect:
+        serializedVersion: 2
+        x: 5935
+        y: 3415
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9115a820beac820800000000000000
+      internalID: 2939420102955702711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_102
+      rect:
+        serializedVersion: 2
+        x: 5948
+        y: 3432
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600823d52d81c2b40800000000000000
+      internalID: 5416731743605653510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_103
+      rect:
+        serializedVersion: 2
+        x: 5761
+        y: 3401
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d36cd1dcfe045cf0800000000000000
+      internalID: -264569999092587564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_104
+      rect:
+        serializedVersion: 2
+        x: 5805
+        y: 3359
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063b7b2de208f43e0800000000000000
+      internalID: -2067292765347663008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_105
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 3395
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3bf2cab15eb0120800000000000000
+      internalID: 2381248735011124193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_106
+      rect:
+        serializedVersion: 2
+        x: 5858
+        y: 3381
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e6a26377d0ca080800000000000000
+      internalID: -9174943535199523195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_107
+      rect:
+        serializedVersion: 2
+        x: 5877
+        y: 3406
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0eaa17a6d25fa40800000000000000
+      internalID: 5401273263297585381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_108
+      rect:
+        serializedVersion: 2
+        x: 5899
+        y: 3412
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395d510793f5cc5e0800000000000000
+      internalID: -1888029443476826733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_109
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 3393
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a4f67bd48c7ae10800000000000000
+      internalID: 2208954378364078601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_110
+      rect:
+        serializedVersion: 2
+        x: 5837
+        y: 3389
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40353d7f077ec1980800000000000000
+      internalID: -8566717918785350908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_111
+      rect:
+        serializedVersion: 2
+        x: 5890
+        y: 3398
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e7d5be5a27b85d0800000000000000
+      internalID: -3059225464924176815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_112
+      rect:
+        serializedVersion: 2
+        x: 5706
+        y: 3375
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf1ed70f02cc58f0800000000000000
+      internalID: -550351684633747506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_113
+      rect:
+        serializedVersion: 2
+        x: 5742
+        y: 3375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2df8baf7afd88b0800000000000000
+      internalID: -5148183372768488741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_114
+      rect:
+        serializedVersion: 2
+        x: 5807
+        y: 3378
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a77685a6e4d4a90800000000000000
+      internalID: -7328114800005252506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_115
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 3372
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189fcd078032545b0800000000000000
+      internalID: -5384859260291319423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_116
+      rect:
+        serializedVersion: 2
+        x: 5765
+        y: 3360
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ccfd9294f8da5c0800000000000000
+      internalID: -4202545332868887522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_117
+      rect:
+        serializedVersion: 2
+        x: 5837
+        y: 3365
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2aaabbc884a5c60800000000000000
+      internalID: 7807632673281319640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami_118
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 3326
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626a8e348049bf030800000000000000
+      internalID: 3529577496194885158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Origami_0: -2667495258810006020
+      Origami_1: 2339514705322803098
+      Origami_10: -8974048189737515744
+      Origami_100: 7973583811984751984
+      Origami_101: 2939420102955702711
+      Origami_102: 5416731743605653510
+      Origami_103: -264569999092587564
+      Origami_104: -2067292765347663008
+      Origami_105: 2381248735011124193
+      Origami_106: -9174943535199523195
+      Origami_107: 5401273263297585381
+      Origami_108: -1888029443476826733
+      Origami_109: 2208954378364078601
+      Origami_11: 8476071626347530681
+      Origami_110: -8566717918785350908
+      Origami_111: -3059225464924176815
+      Origami_112: -550351684633747506
+      Origami_113: -5148183372768488741
+      Origami_114: -7328114800005252506
+      Origami_115: -5384859260291319423
+      Origami_116: -4202545332868887522
+      Origami_117: 7807632673281319640
+      Origami_118: 3529577496194885158
+      Origami_12: -5406947370388542849
+      Origami_13: -7828731290237146190
+      Origami_14: 8396022048363466102
+      Origami_15: 6599045873469191674
+      Origami_16: 5893904942798642424
+      Origami_17: -291691807324092246
+      Origami_18: -8157532196448683643
+      Origami_19: -2506526341729442078
+      Origami_2: -3777280775245448359
+      Origami_20: -1804562821003949298
+      Origami_21: -3512575312663968664
+      Origami_22: -6000301671444753944
+      Origami_23: -7373365612453659178
+      Origami_24: -3474898092946606786
+      Origami_25: 4393539630384343835
+      Origami_26: 2281527692178033186
+      Origami_27: 8075124174456384842
+      Origami_28: -7560885807803372081
+      Origami_29: -1978427931636006139
+      Origami_3: -2805148063436424289
+      Origami_30: -7794298491095788864
+      Origami_31: -8592710923034428877
+      Origami_32: -3012371780463639801
+      Origami_33: 1785543229476685221
+      Origami_34: -4652946082262004715
+      Origami_35: -6889373606066879889
+      Origami_36: -3090133215261865204
+      Origami_37: -275392308485166190
+      Origami_38: -9064282449251434707
+      Origami_39: 5848985113699222162
+      Origami_4: 7628790589662504836
+      Origami_40: 5104152782204496395
+      Origami_41: -2457212267072075077
+      Origami_42: -3617577044377026215
+      Origami_43: -4386355359114816929
+      Origami_44: -7989582421920881011
+      Origami_45: -9133884419756510363
+      Origami_46: 7744985236538450646
+      Origami_47: 6261072753666264048
+      Origami_48: 5523354022155730119
+      Origami_49: 38862683070902365
+      Origami_5: 986772996500244732
+      Origami_50: -7420693390506128969
+      Origami_51: 4715639918405179047
+      Origami_52: -216051875753735002
+      Origami_53: -687006458661766419
+      Origami_54: -3818384343582556736
+      Origami_55: -65435133886218954
+      Origami_56: -1067991463286527568
+      Origami_57: -2463969544612370742
+      Origami_58: -6190639014005474957
+      Origami_59: 604464577170553873
+      Origami_6: -5487113930511073331
+      Origami_60: -2462885893738097599
+      Origami_61: 6506442503407659002
+      Origami_62: 8746133761941742225
+      Origami_63: 358819914048166513
+      Origami_64: -4522293702626840997
+      Origami_65: 2618678968422508489
+      Origami_66: 188063621479332679
+      Origami_67: -65304768578058331
+      Origami_68: 5266910995316035910
+      Origami_69: -8071069887490365460
+      Origami_7: -4427454345007889355
+      Origami_70: 6303849044316528731
+      Origami_71: 201389324518392881
+      Origami_72: 8376525392711174197
+      Origami_73: 7509624828643231383
+      Origami_74: 2414053320102374410
+      Origami_75: 690896115936477142
+      Origami_76: 4151122011673755005
+      Origami_77: -5291821869786289902
+      Origami_78: -2509118343624112471
+      Origami_79: 179968552345325524
+      Origami_8: 7606222378350176863
+      Origami_80: -9144786006992865913
+      Origami_81: -689085181810330446
+      Origami_82: 5139294782204952575
+      Origami_83: 5580758775849180878
+      Origami_84: 1288189649228075929
+      Origami_85: -5340842588138523928
+      Origami_86: 5159607248700633954
+      Origami_87: -1488816087154546505
+      Origami_88: -7994874620133328179
+      Origami_89: -2007475209328539887
+      Origami_9: -1793395676583247967
+      Origami_90: -3541764633754350042
+      Origami_91: -8678123412311908740
+      Origami_92: 2449641491514169004
+      Origami_93: -4265439768952851009
+      Origami_94: -4507619160490708047
+      Origami_95: -2175413210456689649
+      Origami_96: 2461289464154733620
+      Origami_97: 893639225992041349
+      Origami_98: 3239582982242207717
+      Origami_99: 6764727206156651754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

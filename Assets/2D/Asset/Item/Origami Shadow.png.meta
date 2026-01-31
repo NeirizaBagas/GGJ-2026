@@ -1,0 +1,3302 @@
+fileFormatVersion: 2
+guid: 6af32292e1cb079498ed88e05e7eeda3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4871093351320072257
+    second: Origami Shadow_0
+  - first:
+      213: 3814871390460520127
+    second: Origami Shadow_1
+  - first:
+      213: 2608677282965638348
+    second: Origami Shadow_2
+  - first:
+      213: -5352496942162647870
+    second: Origami Shadow_3
+  - first:
+      213: 5085519539523802831
+    second: Origami Shadow_4
+  - first:
+      213: -5592068066856906861
+    second: Origami Shadow_5
+  - first:
+      213: -6589759345000163987
+    second: Origami Shadow_6
+  - first:
+      213: -7615193753564575864
+    second: Origami Shadow_7
+  - first:
+      213: -758866930487885419
+    second: Origami Shadow_8
+  - first:
+      213: -4878816949892434683
+    second: Origami Shadow_9
+  - first:
+      213: 730458676894425149
+    second: Origami Shadow_10
+  - first:
+      213: -8698189323955988997
+    second: Origami Shadow_11
+  - first:
+      213: 429416545387169662
+    second: Origami Shadow_12
+  - first:
+      213: 5466844619897258551
+    second: Origami Shadow_13
+  - first:
+      213: 684468078872098603
+    second: Origami Shadow_14
+  - first:
+      213: 5670844770753756578
+    second: Origami Shadow_15
+  - first:
+      213: 3328052333376780678
+    second: Origami Shadow_16
+  - first:
+      213: 7157095534643234100
+    second: Origami Shadow_17
+  - first:
+      213: 8627367879392163215
+    second: Origami Shadow_18
+  - first:
+      213: 1416691262649516951
+    second: Origami Shadow_19
+  - first:
+      213: -7439662199572599719
+    second: Origami Shadow_20
+  - first:
+      213: -6011907886367084267
+    second: Origami Shadow_21
+  - first:
+      213: -2474029134933954303
+    second: Origami Shadow_22
+  - first:
+      213: 6222954908996970030
+    second: Origami Shadow_23
+  - first:
+      213: -3456457490517977906
+    second: Origami Shadow_24
+  - first:
+      213: -8376550585076458812
+    second: Origami Shadow_25
+  - first:
+      213: -2093424186035297588
+    second: Origami Shadow_26
+  - first:
+      213: -4870438403649093651
+    second: Origami Shadow_27
+  - first:
+      213: -7324320361349524510
+    second: Origami Shadow_28
+  - first:
+      213: 1499069080384675817
+    second: Origami Shadow_29
+  - first:
+      213: -6694985861065106759
+    second: Origami Shadow_30
+  - first:
+      213: -1303186700383464594
+    second: Origami Shadow_31
+  - first:
+      213: 6075855579543232014
+    second: Origami Shadow_32
+  - first:
+      213: -4216234214114036714
+    second: Origami Shadow_33
+  - first:
+      213: -6336328633266582522
+    second: Origami Shadow_34
+  - first:
+      213: 108322464615807913
+    second: Origami Shadow_35
+  - first:
+      213: -2337341832853173776
+    second: Origami Shadow_36
+  - first:
+      213: 7695684392367311899
+    second: Origami Shadow_37
+  - first:
+      213: 4444121114622721815
+    second: Origami Shadow_38
+  - first:
+      213: -2216689357140057856
+    second: Origami Shadow_39
+  - first:
+      213: 1462782527650793821
+    second: Origami Shadow_40
+  - first:
+      213: -1968624068108988797
+    second: Origami Shadow_41
+  - first:
+      213: -4680154932662235663
+    second: Origami Shadow_42
+  - first:
+      213: -9211429216845264367
+    second: Origami Shadow_43
+  - first:
+      213: -6704807316836890048
+    second: Origami Shadow_44
+  - first:
+      213: 4986356701296222354
+    second: Origami Shadow_45
+  - first:
+      213: 7445411866894873579
+    second: Origami Shadow_46
+  - first:
+      213: 1585931475141206030
+    second: Origami Shadow_47
+  - first:
+      213: 8368507589612367950
+    second: Origami Shadow_48
+  - first:
+      213: -1295518215418931314
+    second: Origami Shadow_49
+  - first:
+      213: -1096842415519647031
+    second: Origami Shadow_50
+  - first:
+      213: -8969673779269493101
+    second: Origami Shadow_51
+  - first:
+      213: -9114275146032617586
+    second: Origami Shadow_52
+  - first:
+      213: -7649548380359080934
+    second: Origami Shadow_53
+  - first:
+      213: -2537453617258451909
+    second: Origami Shadow_54
+  - first:
+      213: 2633775259775011107
+    second: Origami Shadow_55
+  - first:
+      213: 5540630884261112578
+    second: Origami Shadow_56
+  - first:
+      213: 3726979803327628185
+    second: Origami Shadow_57
+  - first:
+      213: 4725008507951749884
+    second: Origami Shadow_58
+  - first:
+      213: -667367627340581763
+    second: Origami Shadow_59
+  - first:
+      213: -1627446247399677606
+    second: Origami Shadow_60
+  - first:
+      213: -7847960191730100643
+    second: Origami Shadow_61
+  - first:
+      213: 3475296674651005331
+    second: Origami Shadow_62
+  - first:
+      213: -1817582815189296982
+    second: Origami Shadow_63
+  - first:
+      213: -7838179608366309503
+    second: Origami Shadow_64
+  - first:
+      213: -6979057554499998335
+    second: Origami Shadow_65
+  - first:
+      213: 6905677734366741379
+    second: Origami Shadow_66
+  - first:
+      213: 6707286244256973179
+    second: Origami Shadow_67
+  - first:
+      213: 8104752592615210140
+    second: Origami Shadow_68
+  - first:
+      213: -7989272437953110379
+    second: Origami Shadow_69
+  - first:
+      213: -79403411803612495
+    second: Origami Shadow_70
+  - first:
+      213: -8729031927344153162
+    second: Origami Shadow_71
+  - first:
+      213: -7587954427475220474
+    second: Origami Shadow_72
+  - first:
+      213: 6211170145442593655
+    second: Origami Shadow_73
+  - first:
+      213: -1385473211839530305
+    second: Origami Shadow_74
+  - first:
+      213: 3324764211111505292
+    second: Origami Shadow_75
+  - first:
+      213: -8028391818132959565
+    second: Origami Shadow_76
+  - first:
+      213: -1066381509179356626
+    second: Origami Shadow_77
+  - first:
+      213: -1041544919690394151
+    second: Origami Shadow_78
+  - first:
+      213: 2132038837977797918
+    second: Origami Shadow_79
+  - first:
+      213: 3450627494816361816
+    second: Origami Shadow_80
+  - first:
+      213: -8805491153868042171
+    second: Origami Shadow_81
+  - first:
+      213: 3537715633934742207
+    second: Origami Shadow_82
+  - first:
+      213: -2219693841038124730
+    second: Origami Shadow_83
+  - first:
+      213: 1359589627594969230
+    second: Origami Shadow_84
+  - first:
+      213: 2905263611560589423
+    second: Origami Shadow_85
+  - first:
+      213: -2080821853848197039
+    second: Origami Shadow_86
+  - first:
+      213: 1144910028050906744
+    second: Origami Shadow_87
+  - first:
+      213: 6366656517411098040
+    second: Origami Shadow_88
+  - first:
+      213: 1306923745941364224
+    second: Origami Shadow_89
+  - first:
+      213: 4556885036810355358
+    second: Origami Shadow_90
+  - first:
+      213: -2151710095537422061
+    second: Origami Shadow_91
+  - first:
+      213: -7601644150241481710
+    second: Origami Shadow_92
+  - first:
+      213: 5167015462949590008
+    second: Origami Shadow_93
+  - first:
+      213: 114117865484144977
+    second: Origami Shadow_94
+  - first:
+      213: -7077194672044820186
+    second: Origami Shadow_95
+  - first:
+      213: -4551381668427670749
+    second: Origami Shadow_96
+  - first:
+      213: -260243326115913759
+    second: Origami Shadow_97
+  - first:
+      213: -8713123041701288429
+    second: Origami Shadow_98
+  - first:
+      213: 5472632799614862423
+    second: Origami Shadow_99
+  - first:
+      213: -8699982243272253268
+    second: Origami Shadow_100
+  - first:
+      213: 6721721389347006937
+    second: Origami Shadow_101
+  - first:
+      213: 1283832849110535538
+    second: Origami Shadow_102
+  - first:
+      213: -8114795846932298716
+    second: Origami Shadow_103
+  - first:
+      213: 8385593605848643104
+    second: Origami Shadow_104
+  - first:
+      213: 5042488903341633835
+    second: Origami Shadow_105
+  - first:
+      213: 7849526947780126369
+    second: Origami Shadow_106
+  - first:
+      213: -7627434993929038540
+    second: Origami Shadow_107
+  - first:
+      213: 1145889990315082915
+    second: Origami Shadow_108
+  - first:
+      213: -6553419084871962309
+    second: Origami Shadow_109
+  - first:
+      213: -4371826055668614412
+    second: Origami Shadow_110
+  - first:
+      213: -3022909819780012502
+    second: Origami Shadow_111
+  - first:
+      213: -5307085542248971148
+    second: Origami Shadow_112
+  - first:
+      213: 1021160616076803762
+    second: Origami Shadow_113
+  - first:
+      213: 1918716728459732801
+    second: Origami Shadow_114
+  - first:
+      213: 3635503458896127068
+    second: Origami Shadow_115
+  - first:
+      213: -2353615632395553765
+    second: Origami Shadow_116
+  - first:
+      213: 2158184741984916186
+    second: Origami Shadow_117
+  - first:
+      213: 9107897708057058141
+    second: Origami Shadow_118
+  - first:
+      213: 3699567518050516712
+    second: Origami Shadow_119
+  - first:
+      213: 3106943226236620323
+    second: Origami Shadow_120
+  - first:
+      213: -2004519905621457987
+    second: Origami Shadow_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Origami Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 111
+        width: 5714
+        height: 5360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfccc6b766666cb0800000000000000
+      internalID: -4871093351320072257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 5807
+        y: 3653
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6233c415521f430800000000000000
+      internalID: 3814871390460520127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 5812
+        y: 3659
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc4cc0ea22e33420800000000000000
+      internalID: 2608677282965638348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 5826
+        y: 3637
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4e70dc36c18b5b0800000000000000
+      internalID: -5352496942162647870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 5814
+        y: 3624
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6df93b315639640800000000000000
+      internalID: 5085519539523802831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 3609
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f4033a8bbf462b0800000000000000
+      internalID: -5592068066856906861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 5815
+        y: 3594
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6554fd2ac87c84a0800000000000000
+      internalID: -6589759345000163987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 5875
+        y: 3612
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887820fc0a5615690800000000000000
+      internalID: -7615193753564575864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 5804
+        y: 3593
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5918a702c86f775f0800000000000000
+      internalID: -758866930487885419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 5816
+        y: 3586
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505b18945d5fa4cb0800000000000000
+      internalID: -4878816949892434683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 5829
+        y: 3571
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30e467eb4c132a00800000000000000
+      internalID: 730458676894425149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 5842
+        y: 3591
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5128415e2d94780800000000000000
+      internalID: -8698189323955988997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 5851
+        y: 3550
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e774a78a21895f500800000000000000
+      internalID: 429416545387169662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 5863
+        y: 3594
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7324b3b97322edb40800000000000000
+      internalID: 5466844619897258551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 5877
+        y: 3555
+        width: 20
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27f34d5718bf7900800000000000000
+      internalID: 684468078872098603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 5894
+        y: 3580
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adb8290643e2be40800000000000000
+      internalID: 5670844770753756578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 5802
+        y: 3571
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68935d4e6fd9f2e20800000000000000
+      internalID: 3328052333376780678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 5809
+        y: 3556
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435c1f5087c135360800000000000000
+      internalID: 7157095534643234100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 5838
+        y: 3566
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85f8c560619ab770800000000000000
+      internalID: 8627367879392163215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_19
+      rect:
+        serializedVersion: 2
+        x: 5846
+        y: 3578
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793cf9a823919a310800000000000000
+      internalID: 1416691262649516951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 5804
+        y: 3536
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ce29185a201c890800000000000000
+      internalID: -7439662199572599719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_21
+      rect:
+        serializedVersion: 2
+        x: 5822
+        y: 3545
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51178ba31a9619ca0800000000000000
+      internalID: -6011907886367084267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_22
+      rect:
+        serializedVersion: 2
+        x: 5829
+        y: 3531
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1017b481c9b7aadd0800000000000000
+      internalID: -2474029134933954303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_23
+      rect:
+        serializedVersion: 2
+        x: 5830
+        y: 3551
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26a904e4806c5650800000000000000
+      internalID: 6222954908996970030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_24
+      rect:
+        serializedVersion: 2
+        x: 5836
+        y: 3549
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec41078b9323800d0800000000000000
+      internalID: -3456457490517977906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_25
+      rect:
+        serializedVersion: 2
+        x: 5841
+        y: 3544
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca5d6daf9380cb80800000000000000
+      internalID: -8376550585076458812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_26
+      rect:
+        serializedVersion: 2
+        x: 5843
+        y: 3535
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2a7235bc9a2f2e0800000000000000
+      internalID: -2093424186035297588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_27
+      rect:
+        serializedVersion: 2
+        x: 5867
+        y: 3517
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def331a931ab86cb0800000000000000
+      internalID: -4870438403649093651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_28
+      rect:
+        serializedVersion: 2
+        x: 5884
+        y: 3525
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3d990ff69ca5a90800000000000000
+      internalID: -7324320361349524510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_29
+      rect:
+        serializedVersion: 2
+        x: 5900
+        y: 3552
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef991ed263cdc410800000000000000
+      internalID: 1499069080384675817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_30
+      rect:
+        serializedVersion: 2
+        x: 5919
+        y: 3525
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba93f6b4d1a613a0800000000000000
+      internalID: -6694985861065106759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_31
+      rect:
+        serializedVersion: 2
+        x: 5927
+        y: 3527
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6351afb9962aede0800000000000000
+      internalID: -1303186700383464594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_32
+      rect:
+        serializedVersion: 2
+        x: 5817
+        y: 3525
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0edf355576c15450800000000000000
+      internalID: 6075855579543232014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_33
+      rect:
+        serializedVersion: 2
+        x: 5834
+        y: 3513
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61472e1225dec75c0800000000000000
+      internalID: -4216234214114036714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_34
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 3532
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c420aeda6d018a0800000000000000
+      internalID: -6336328633266582522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_35
+      rect:
+        serializedVersion: 2
+        x: 5900
+        y: 3496
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abbe9825b6d08100800000000000000
+      internalID: 108322464615807913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_36
+      rect:
+        serializedVersion: 2
+        x: 5944
+        y: 3532
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9402e9cf7109fd0800000000000000
+      internalID: -2337341832853173776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_37
+      rect:
+        serializedVersion: 2
+        x: 5807
+        y: 3522
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c429e6e209cca60800000000000000
+      internalID: 7695684392367311899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_38
+      rect:
+        serializedVersion: 2
+        x: 5849
+        y: 3491
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f76e79b90bcad30800000000000000
+      internalID: 4444121114622721815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_39
+      rect:
+        serializedVersion: 2
+        x: 5858
+        y: 3453
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001274236ccbc31e0800000000000000
+      internalID: -2216689357140057856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_40
+      rect:
+        serializedVersion: 2
+        x: 5921
+        y: 3505
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59064075f8dc4410800000000000000
+      internalID: 1462782527650793821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_41
+      rect:
+        serializedVersion: 2
+        x: 5947
+        y: 3508
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e441c17da0ea4e0800000000000000
+      internalID: -1968624068108988797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_42
+      rect:
+        serializedVersion: 2
+        x: 5961
+        y: 3516
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd00e0a2efbc0fb0800000000000000
+      internalID: -4680154932662235663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_43
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 3482
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a88487eed6a2080800000000000000
+      internalID: -9211429216845264367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_44
+      rect:
+        serializedVersion: 2
+        x: 5832
+        y: 3482
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a4f78d44db3f2a0800000000000000
+      internalID: -6704807316836890048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_45
+      rect:
+        serializedVersion: 2
+        x: 5945
+        y: 3437
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29066204009133540800000000000000
+      internalID: 4986356701296222354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_46
+      rect:
+        serializedVersion: 2
+        x: 5979
+        y: 3498
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be33fbc35aa635760800000000000000
+      internalID: 7445411866894873579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_47
+      rect:
+        serializedVersion: 2
+        x: 5802
+        y: 3477
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0027e5264c520610800000000000000
+      internalID: 1585931475141206030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_48
+      rect:
+        serializedVersion: 2
+        x: 5846
+        y: 3474
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4071038059e22470800000000000000
+      internalID: 8368507589612367950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_49
+      rect:
+        serializedVersion: 2
+        x: 5858
+        y: 3479
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8718e90c05650ee0800000000000000
+      internalID: -1295518215418931314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_50
+      rect:
+        serializedVersion: 2
+        x: 5913
+        y: 3477
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cabe5862ab37c0f0800000000000000
+      internalID: -1096842415519647031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_51
+      rect:
+        serializedVersion: 2
+        x: 5923
+        y: 3439
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e918b9831558380800000000000000
+      internalID: -8969673779269493101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_52
+      rect:
+        serializedVersion: 2
+        x: 5983
+        y: 3459
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87ed8f4b07938180800000000000000
+      internalID: -9114275146032617586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_53
+      rect:
+        serializedVersion: 2
+        x: 6001
+        y: 3424
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a144880f64857d590800000000000000
+      internalID: -7649548380359080934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_54
+      rect:
+        serializedVersion: 2
+        x: 5801
+        y: 3449
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ca74d016729ccd0800000000000000
+      internalID: -2537453617258451909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_55
+      rect:
+        serializedVersion: 2
+        x: 5810
+        y: 3466
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3290a19f4ac0d8420800000000000000
+      internalID: 2633775259775011107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_56
+      rect:
+        serializedVersion: 2
+        x: 5817
+        y: 3462
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b21f70f6644ec40800000000000000
+      internalID: 5540630884261112578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_57
+      rect:
+        serializedVersion: 2
+        x: 5830
+        y: 3441
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993066e7264e8b330800000000000000
+      internalID: 3726979803327628185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_58
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 3438
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa992d243a929140800000000000000
+      internalID: 4725008507951749884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_59
+      rect:
+        serializedVersion: 2
+        x: 5905
+        y: 3457
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74f4c5cda80db6f0800000000000000
+      internalID: -667367627340581763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_60
+      rect:
+        serializedVersion: 2
+        x: 6011
+        y: 3458
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5123b4b2462a69e0800000000000000
+      internalID: -1627446247399677606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_61
+      rect:
+        serializedVersion: 2
+        x: 5821
+        y: 3442
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56558039c1761390800000000000000
+      internalID: -7847960191730100643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_62
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 3439
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3916ba5a9ebba3030800000000000000
+      internalID: 3475296674651005331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_63
+      rect:
+        serializedVersion: 2
+        x: 5911
+        y: 3442
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa899ce3f06a6c6e0800000000000000
+      internalID: -1817582815189296982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_64
+      rect:
+        serializedVersion: 2
+        x: 5989
+        y: 3448
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f9d95bc21393390800000000000000
+      internalID: -7838179608366309503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_65
+      rect:
+        serializedVersion: 2
+        x: 5815
+        y: 3422
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d650d7128652f90800000000000000
+      internalID: -6979057554499998335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_66
+      rect:
+        serializedVersion: 2
+        x: 5834
+        y: 3433
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3830142cf45e5df50800000000000000
+      internalID: 6905677734366741379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_67
+      rect:
+        serializedVersion: 2
+        x: 5843
+        y: 3405
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b710dcb6d41151d50800000000000000
+      internalID: 6707286244256973179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_68
+      rect:
+        serializedVersion: 2
+        x: 5869
+        y: 3423
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c714bca8dd97070800000000000000
+      internalID: 8104752592615210140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_69
+      rect:
+        serializedVersion: 2
+        x: 5876
+        y: 3387
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e5cf1fb07602190800000000000000
+      internalID: -7989272437953110379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_70
+      rect:
+        serializedVersion: 2
+        x: 5910
+        y: 3402
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1badd758407e5eef0800000000000000
+      internalID: -79403411803612495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_71
+      rect:
+        serializedVersion: 2
+        x: 5942
+        y: 3404
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdbb91e5bf3cd680800000000000000
+      internalID: -8729031927344153162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_72
+      rect:
+        serializedVersion: 2
+        x: 5983
+        y: 3427
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608ac72a6ab22b690800000000000000
+      internalID: -7587954427475220474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_73
+      rect:
+        serializedVersion: 2
+        x: 6003
+        y: 3422
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bfd9ec652823650800000000000000
+      internalID: 6211170145442593655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_74
+      rect:
+        serializedVersion: 2
+        x: 5830
+        y: 3392
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba3c72547fc5cce0800000000000000
+      internalID: -1385473211839530305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_75
+      rect:
+        serializedVersion: 2
+        x: 5900
+        y: 3403
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dab354f6fe32e20800000000000000
+      internalID: 3324764211111505292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_76
+      rect:
+        serializedVersion: 2
+        x: 5959
+        y: 3414
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be488a7d2c659090800000000000000
+      internalID: -8028391818132959565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_77
+      rect:
+        serializedVersion: 2
+        x: 5985
+        y: 3395
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ac156daa37331f0800000000000000
+      internalID: -1066381509179356626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_78
+      rect:
+        serializedVersion: 2
+        x: 6018
+        y: 3407
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5cd34f960bb81f0800000000000000
+      internalID: -1041544919690394151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_79
+      rect:
+        serializedVersion: 2
+        x: 6025
+        y: 3381
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15d001f606869d10800000000000000
+      internalID: 2132038837977797918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_80
+      rect:
+        serializedVersion: 2
+        x: 6032
+        y: 3414
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85da9b0ac6713ef20800000000000000
+      internalID: 3450627494816361816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_81
+      rect:
+        serializedVersion: 2
+        x: 5805
+        y: 3370
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540d9d4f27c9cc580800000000000000
+      internalID: -8805491153868042171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_82
+      rect:
+        serializedVersion: 2
+        x: 5805
+        y: 3333
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2b60d10ad781130800000000000000
+      internalID: 3537715633934742207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_83
+      rect:
+        serializedVersion: 2
+        x: 5818
+        y: 3394
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649dcc646301231e0800000000000000
+      internalID: -2219693841038124730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_84
+      rect:
+        serializedVersion: 2
+        x: 5831
+        y: 3384
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e809a19109b3ed210800000000000000
+      internalID: 1359589627594969230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_85
+      rect:
+        serializedVersion: 2
+        x: 5839
+        y: 3398
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68ffe9acd1915820800000000000000
+      internalID: 2905263611560589423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_86
+      rect:
+        serializedVersion: 2
+        x: 5843
+        y: 3375
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15822807c8f6f13e0800000000000000
+      internalID: -2080821853848197039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_87
+      rect:
+        serializedVersion: 2
+        x: 5846
+        y: 3350
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87eb1c1ca9983ef00800000000000000
+      internalID: 1144910028050906744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_88
+      rect:
+        serializedVersion: 2
+        x: 5854
+        y: 3365
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdc63fde58ea5850800000000000000
+      internalID: 6366656517411098040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_89
+      rect:
+        serializedVersion: 2
+        x: 5860
+        y: 3379
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e9b59f830232210800000000000000
+      internalID: 1306923745941364224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_90
+      rect:
+        serializedVersion: 2
+        x: 5871
+        y: 3385
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92cf5d2cce4d3f30800000000000000
+      internalID: 4556885036810355358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_91
+      rect:
+        serializedVersion: 2
+        x: 5894
+        y: 3374
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311cedf71179322e0800000000000000
+      internalID: -2151710095537422061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_92
+      rect:
+        serializedVersion: 2
+        x: 5900
+        y: 3272
+        width: 45
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c2eebabe8818690800000000000000
+      internalID: -7601644150241481710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_93
+      rect:
+        serializedVersion: 2
+        x: 5906
+        y: 3373
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f39f02003de4b740800000000000000
+      internalID: 5167015462949590008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_94
+      rect:
+        serializedVersion: 2
+        x: 5932
+        y: 3387
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15155b2189d659100800000000000000
+      internalID: 114117865484144977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_95
+      rect:
+        serializedVersion: 2
+        x: 5937
+        y: 3371
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6293b7e31f0c8cd90800000000000000
+      internalID: -7077194672044820186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_96
+      rect:
+        serializedVersion: 2
+        x: 5953
+        y: 3387
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bd420ac7e36d0c0800000000000000
+      internalID: -4551381668427670749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_97
+      rect:
+        serializedVersion: 2
+        x: 5955
+        y: 3373
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efd1bfd21e636cf0800000000000000
+      internalID: -260243326115913759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_98
+      rect:
+        serializedVersion: 2
+        x: 5959
+        y: 3360
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316af17f1c4c41780800000000000000
+      internalID: -8713123041701288429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_99
+      rect:
+        serializedVersion: 2
+        x: 5966
+        y: 3375
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75402373982b2fb40800000000000000
+      internalID: 5472632799614862423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_100
+      rect:
+        serializedVersion: 2
+        x: 5991
+        y: 3355
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca02d858e34734780800000000000000
+      internalID: -8699982243272253268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_101
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 3396
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d96c2b8df9584d50800000000000000
+      internalID: 6721721389347006937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_102
+      rect:
+        serializedVersion: 2
+        x: 6017
+        y: 3361
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d063a9c2711d110800000000000000
+      internalID: 1283832849110535538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_103
+      rect:
+        serializedVersion: 2
+        x: 6023
+        y: 3352
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42409c6db24726f80800000000000000
+      internalID: -8114795846932298716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_104
+      rect:
+        serializedVersion: 2
+        x: 6038
+        y: 3363
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026356ba4fc9f5470800000000000000
+      internalID: 8385593605848643104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_105
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 3316
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21f68bf0f48af540800000000000000
+      internalID: 5042488903341633835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_106
+      rect:
+        serializedVersion: 2
+        x: 5819
+        y: 3358
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a66a41ab2f1fec60800000000000000
+      internalID: 7849526947780126369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_107
+      rect:
+        serializedVersion: 2
+        x: 5819
+        y: 3325
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435d97fe848e52690800000000000000
+      internalID: -7627434993929038540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_108
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 3340
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4086000e407ef00800000000000000
+      internalID: 1145889990315082915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_109
+      rect:
+        serializedVersion: 2
+        x: 5844
+        y: 3325
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31f0f550149d05a0800000000000000
+      internalID: -6553419084871962309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_110
+      rect:
+        serializedVersion: 2
+        x: 5860
+        y: 3316
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa33148d572453c0800000000000000
+      internalID: -4371826055668614412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_111
+      rect:
+        serializedVersion: 2
+        x: 5879
+        y: 3329
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26e8f3f8877c06d0800000000000000
+      internalID: -3022909819780012502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_112
+      rect:
+        serializedVersion: 2
+        x: 5902
+        y: 3356
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47483a541d17956b0800000000000000
+      internalID: -5307085542248971148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_113
+      rect:
+        serializedVersion: 2
+        x: 5948
+        y: 3330
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be70e38b24eb2e00800000000000000
+      internalID: 1021160616076803762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_114
+      rect:
+        serializedVersion: 2
+        x: 5949
+        y: 3314
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1472170e2b6a0aa10800000000000000
+      internalID: 1918716728459732801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_115
+      rect:
+        serializedVersion: 2
+        x: 5975
+        y: 3326
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5425375227e37230800000000000000
+      internalID: 3635503458896127068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_116
+      rect:
+        serializedVersion: 2
+        x: 5979
+        y: 3320
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14b1456d07465fd0800000000000000
+      internalID: -2353615632395553765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_117
+      rect:
+        serializedVersion: 2
+        x: 5998
+        y: 3329
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2dda9969963fd10800000000000000
+      internalID: 2158184741984916186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_118
+      rect:
+        serializedVersion: 2
+        x: 5867
+        y: 3302
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bd553b5b0c56e70800000000000000
+      internalID: 9107897708057058141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_119
+      rect:
+        serializedVersion: 2
+        x: 5889
+        y: 3283
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee79f77e01875330800000000000000
+      internalID: 3699567518050516712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_120
+      rect:
+        serializedVersion: 2
+        x: 5810
+        y: 3242
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ec32927641e1b20800000000000000
+      internalID: 3106943226236620323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Origami Shadow_121
+      rect:
+        serializedVersion: 2
+        x: 5806
+        y: 3202
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3cb3824c38e24e0800000000000000
+      internalID: -2004519905621457987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Origami Shadow_0: -4871093351320072257
+      Origami Shadow_1: 3814871390460520127
+      Origami Shadow_10: 730458676894425149
+      Origami Shadow_100: -8699982243272253268
+      Origami Shadow_101: 6721721389347006937
+      Origami Shadow_102: 1283832849110535538
+      Origami Shadow_103: -8114795846932298716
+      Origami Shadow_104: 8385593605848643104
+      Origami Shadow_105: 5042488903341633835
+      Origami Shadow_106: 7849526947780126369
+      Origami Shadow_107: -7627434993929038540
+      Origami Shadow_108: 1145889990315082915
+      Origami Shadow_109: -6553419084871962309
+      Origami Shadow_11: -8698189323955988997
+      Origami Shadow_110: -4371826055668614412
+      Origami Shadow_111: -3022909819780012502
+      Origami Shadow_112: -5307085542248971148
+      Origami Shadow_113: 1021160616076803762
+      Origami Shadow_114: 1918716728459732801
+      Origami Shadow_115: 3635503458896127068
+      Origami Shadow_116: -2353615632395553765
+      Origami Shadow_117: 2158184741984916186
+      Origami Shadow_118: 9107897708057058141
+      Origami Shadow_119: 3699567518050516712
+      Origami Shadow_12: 429416545387169662
+      Origami Shadow_120: 3106943226236620323
+      Origami Shadow_121: -2004519905621457987
+      Origami Shadow_13: 5466844619897258551
+      Origami Shadow_14: 684468078872098603
+      Origami Shadow_15: 5670844770753756578
+      Origami Shadow_16: 3328052333376780678
+      Origami Shadow_17: 7157095534643234100
+      Origami Shadow_18: 8627367879392163215
+      Origami Shadow_19: 1416691262649516951
+      Origami Shadow_2: 2608677282965638348
+      Origami Shadow_20: -7439662199572599719
+      Origami Shadow_21: -6011907886367084267
+      Origami Shadow_22: -2474029134933954303
+      Origami Shadow_23: 6222954908996970030
+      Origami Shadow_24: -3456457490517977906
+      Origami Shadow_25: -8376550585076458812
+      Origami Shadow_26: -2093424186035297588
+      Origami Shadow_27: -4870438403649093651
+      Origami Shadow_28: -7324320361349524510
+      Origami Shadow_29: 1499069080384675817
+      Origami Shadow_3: -5352496942162647870
+      Origami Shadow_30: -6694985861065106759
+      Origami Shadow_31: -1303186700383464594
+      Origami Shadow_32: 6075855579543232014
+      Origami Shadow_33: -4216234214114036714
+      Origami Shadow_34: -6336328633266582522
+      Origami Shadow_35: 108322464615807913
+      Origami Shadow_36: -2337341832853173776
+      Origami Shadow_37: 7695684392367311899
+      Origami Shadow_38: 4444121114622721815
+      Origami Shadow_39: -2216689357140057856
+      Origami Shadow_4: 5085519539523802831
+      Origami Shadow_40: 1462782527650793821
+      Origami Shadow_41: -1968624068108988797
+      Origami Shadow_42: -4680154932662235663
+      Origami Shadow_43: -9211429216845264367
+      Origami Shadow_44: -6704807316836890048
+      Origami Shadow_45: 4986356701296222354
+      Origami Shadow_46: 7445411866894873579
+      Origami Shadow_47: 1585931475141206030
+      Origami Shadow_48: 8368507589612367950
+      Origami Shadow_49: -1295518215418931314
+      Origami Shadow_5: -5592068066856906861
+      Origami Shadow_50: -1096842415519647031
+      Origami Shadow_51: -8969673779269493101
+      Origami Shadow_52: -9114275146032617586
+      Origami Shadow_53: -7649548380359080934
+      Origami Shadow_54: -2537453617258451909
+      Origami Shadow_55: 2633775259775011107
+      Origami Shadow_56: 5540630884261112578
+      Origami Shadow_57: 3726979803327628185
+      Origami Shadow_58: 4725008507951749884
+      Origami Shadow_59: -667367627340581763
+      Origami Shadow_6: -6589759345000163987
+      Origami Shadow_60: -1627446247399677606
+      Origami Shadow_61: -7847960191730100643
+      Origami Shadow_62: 3475296674651005331
+      Origami Shadow_63: -1817582815189296982
+      Origami Shadow_64: -7838179608366309503
+      Origami Shadow_65: -6979057554499998335
+      Origami Shadow_66: 6905677734366741379
+      Origami Shadow_67: 6707286244256973179
+      Origami Shadow_68: 8104752592615210140
+      Origami Shadow_69: -7989272437953110379
+      Origami Shadow_7: -7615193753564575864
+      Origami Shadow_70: -79403411803612495
+      Origami Shadow_71: -8729031927344153162
+      Origami Shadow_72: -7587954427475220474
+      Origami Shadow_73: 6211170145442593655
+      Origami Shadow_74: -1385473211839530305
+      Origami Shadow_75: 3324764211111505292
+      Origami Shadow_76: -8028391818132959565
+      Origami Shadow_77: -1066381509179356626
+      Origami Shadow_78: -1041544919690394151
+      Origami Shadow_79: 2132038837977797918
+      Origami Shadow_8: -758866930487885419
+      Origami Shadow_80: 3450627494816361816
+      Origami Shadow_81: -8805491153868042171
+      Origami Shadow_82: 3537715633934742207
+      Origami Shadow_83: -2219693841038124730
+      Origami Shadow_84: 1359589627594969230
+      Origami Shadow_85: 2905263611560589423
+      Origami Shadow_86: -2080821853848197039
+      Origami Shadow_87: 1144910028050906744
+      Origami Shadow_88: 6366656517411098040
+      Origami Shadow_89: 1306923745941364224
+      Origami Shadow_9: -4878816949892434683
+      Origami Shadow_90: 4556885036810355358
+      Origami Shadow_91: -2151710095537422061
+      Origami Shadow_92: -7601644150241481710
+      Origami Shadow_93: 5167015462949590008
+      Origami Shadow_94: 114117865484144977
+      Origami Shadow_95: -7077194672044820186
+      Origami Shadow_96: -4551381668427670749
+      Origami Shadow_97: -260243326115913759
+      Origami Shadow_98: -8713123041701288429
+      Origami Shadow_99: 5472632799614862423
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

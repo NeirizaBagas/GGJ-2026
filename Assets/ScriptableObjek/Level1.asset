@@ -17,9 +17,7 @@ MonoBehaviour:
   - Paper
   - Scissor
   - Glue
-  - Tes
   visualObjek:
-  - {fileID: 7482667652216324306, guid: e58c324476bff4245b339ca069cf9aff, type: 3}
+  - {fileID: -2667495258810006020, guid: 55c1ff4f0f22e154cafd7299e2bb3402, type: 3}
   - {fileID: -2413806693520163455, guid: a350b98e65ce7f64886fa9d315767823, type: 3}
-  - {fileID: 7482667652216324306, guid: 2a33b7ba00d83f148932da175c4c5488, type: 3}
-  - {fileID: -9095717837082945937, guid: 6c674585c09355043a97b78fd17265b8, type: 3}
+  - {fileID: 3676817555240589352, guid: bee9208e1d7df45459a0f61f08f87d36, type: 3}
