@@ -10,6 +10,7 @@ public class DragnDrop : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, 
     private RectTransform rectTransform;
     private Vector3 originalPosition;
     private Transform originalParent;
+    public string itemType;
 
     private void Awake()
     {
