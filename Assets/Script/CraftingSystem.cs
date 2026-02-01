@@ -145,11 +145,11 @@ public class CraftingSystem : MonoBehaviour, IDropHandler
 
     private bool IsMiniGame1Item(string name)
     {
-        return name == "Scissor" || name == "Yarn";
+        return name == "Scissor";
     }
 
     private bool IsMiniGame2Item(string name)
     {
-        return name == "Glue" || name == "Paint";
+        return name == "Glue" || name == "Paint" || name == "Yarn";
     }
 }
