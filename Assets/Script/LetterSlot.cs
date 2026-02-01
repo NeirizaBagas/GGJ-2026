@@ -1,12 +1,23 @@
 using System;
+using TMPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
 public class LetterSlot : MonoBehaviour, IDropHandler
 {
     public char hurufTarget;
+    private TextMeshProUGUI slotText;
 
     public static Action OnLetterPlaced;
+
+    private void Start()
+    {
+        slotText = GetComponentInChildren<TextMeshProUGUI>();
+        if (slotText != null)
+        {
+            slotText.text = hurufTarget.ToString();
+        }
+    }
 
     public void OnDrop(PointerEventData eventData)
     {
@@ -16,7 +27,7 @@ public class LetterSlot : MonoBehaviour, IDropHandler
         if (draggedLetter != null)
         {
             // 2. Cek apakah slot masih kosong?
-            if (transform.childCount == 0)
+            if (transform.childCount <= 1)
             {
                 // 3. Cek apakah hurufnya sesuai dengan target slot ini?
                 if (draggedLetter.hurufSaya == hurufTarget)

@@ -65,7 +65,7 @@ public class GameManager : MonoBehaviour
         activeSlots.Clear();
 
         // set mask visual
-        string wordToSpell = maskData.ingredientNames[currentMaskIndex];
+        string wordToSpell = maskData.bahanList[currentMaskIndex].ingredientName;
         char[] characters = wordToSpell.ToCharArray();
 
         // spawn slot
@@ -126,7 +126,7 @@ public class GameManager : MonoBehaviour
         }
 
         // Jika satu kata bahan sudah benar semua
-        if (correctCount == maskData.ingredientNames[currentMaskIndex].Length)
+        if (correctCount == maskData.bahanList[currentMaskIndex].ingredientName.Length)
         {
             Debug.Log("Satu bahan selesai dieja!");
             currentMaskIndex++;
@@ -134,7 +134,7 @@ public class GameManager : MonoBehaviour
             // Update visual topeng di tengah berdasarkan progres
             UpdateIngredientVisual();
 
-            if (currentMaskIndex < maskData.ingredientNames.Length)
+            if (currentMaskIndex < maskData.bahanList.Count)
             {
                 // Lanjut ke bahan berikutnya setelah delay sedikit
                 Invoke("StartNewIngredient", 1.5f);
