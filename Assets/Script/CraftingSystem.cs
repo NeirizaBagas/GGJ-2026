@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
@@ -23,11 +24,13 @@ public class CraftingSystem : MonoBehaviour, IDropHandler
     private void OnEnable()
     {
         DrawCompleted.OnFirstStepComplete += OnMiniGameFinished;
+        DrawingTracer._OnLevelComplete += OnMiniGameFinished;
     }
 
     private void OnDisable()
     {
-        DrawCompleted.OnFirstStepComplete -= OnMiniGameFinished;    
+        DrawCompleted.OnFirstStepComplete -= OnMiniGameFinished;  
+        DrawingTracer._OnLevelComplete -= OnMiniGameFinished;
     }
 
     void Start()
@@ -52,11 +55,16 @@ public class CraftingSystem : MonoBehaviour, IDropHandler
         // Validasi: Apakah item benar dan sedang menunggu bahan?
         if (item != null && craftingState == CraftingState.MenungguBahan)
         {
+            Debug.Log("Current Step: " + currentStep);
             string targetItem = currentLevelData.craftingRequiredItems[currentStep];
 
             if (item.itemType == targetItem)
             {
                 HandleSuccessfulDrop(item);
+            }
+            else
+            {
+               Debug.Log("Item tidak sesuai. Diperlukan: " + targetItem + ", Diberikan: " + item.itemType);
             }
         }
     }
@@ -65,7 +73,7 @@ public class CraftingSystem : MonoBehaviour, IDropHandler
     {
         // Matikan petunjuk alat saat ini
         if (currentStep < shadowClues.Length) shadowClues[currentStep].SetActive(false);
-
+        Debug.Log("Berhasil bahan");
         // Snap & Sembunyikan item
         item.transform.SetParent(craftingContainer);
         item.transform.localPosition = Vector3.zero;
@@ -77,58 +85,58 @@ public class CraftingSystem : MonoBehaviour, IDropHandler
     private void DetermineNextAction()
     {
         string currentItem = currentLevelData.craftingRequiredItems[currentStep];
+        Debug.Log("Menentukan aksi berikutnya untuk item: " + currentItem);
 
-        // 1. Jika Bahan Dasar (Kertas, Daun, Karton)
+        // Reset semua mini-game agar tidak tumpang tindih
+        firstMiniGame.SetActive(false);
+        secondMiniGame.SetActive(false);
+
         if (currentItem == "Paper" || currentItem == "Leaf" || currentItem == "CardBoard")
         {
-            visualBahanDasar.SetActive(true); // Meja sekarang ada bahan
+            Debug.Log("currentItem adalah bahan dasar: ");
+            visualBahanDasar.SetActive(true);
+            Debug.Log(visualBahanDasar.name + " diaktifkan.");
             PrepareNextStep();
         }
-        // 2. Jika Alat Mini-game
         else if (IsMiniGame1Item(currentItem))
         {
             craftingState = CraftingState.MiniGame;
-            firstMiniGame.SetActive(true); // Mini-game menimpa tampilan meja
-            //StartMiniGame(currentItem);
+            firstMiniGame.SetActive(true);
+            // Pastikan script di dalam firstMiniGame di-reset kondisinya
         }
         else if (IsMiniGame2Item(currentItem))
         {
             craftingState = CraftingState.MiniGame;
-            secondMiniGame.SetActive(true); // Mini-game menimpa tampilan meja
-            //StartMiniGame(currentItem);
+            secondMiniGame.SetActive(true);
         }
     }
-
-    //private void StartMiniGame(string tool)
-    //{
-    //    // Matikan semua dulu, nyalakan yang sesuai
-    //    dotGunting.SetActive(tool == "Gunting");
-    //    dotLem.SetActive(tool == "Lem");
-    //    dotBenang.SetActive(tool == "Benang");
-    //    dotCat.SetActive(tool == "Cat");
-    //}
 
     public void OnMiniGameFinished()
     {
-        firstMiniGame.SetActive(false); // Sembunyikan mini-game
+        // Hanya proses jika memang sedang dalam state MiniGame
+        if (craftingState != CraftingState.MiniGame) return;
+
+        firstMiniGame.SetActive(false);
         secondMiniGame.SetActive(false);
-        Debug.Log("Mini-game selesai untuk langkah " + currentStep);
-        // Jika ini langkah terakhir, ubah jadi topeng jadi
+
         if (currentStep == currentLevelData.craftingRequiredItems.Length - 1)
         {
+            // Kondisi Selesai Level
             visualBahanDasar.SetActive(false);
-            visualTopengJadi.SetActive(true); // Bahan dasar berubah jadi topeng
+            Debug.Log("CRAFTING SELESAI! TOPENG JADI!");
+            visualTopengJadi.SetActive(true);
             craftingState = CraftingState.Selesai;
-            Debug.Log("Level Selesai!");
         }
         else
         {
-            PrepareNextStep();
+            // Lanjut ke item berikutnya (Misal dari Paint ke Brush)
+            StartCoroutine(PrepareNextStep());
         }
     }
 
-    private void PrepareNextStep()
+    IEnumerator PrepareNextStep()
     {
+        yield return new WaitForSeconds(2f);
         currentStep++;
         craftingState = CraftingState.MenungguBahan;
         UpdateShadowClue();
@@ -150,6 +158,6 @@ public class CraftingSystem : MonoBehaviour, IDropHandler
 
     private bool IsMiniGame2Item(string name)
     {
-        return name == "Glue" || name == "Paint" || name == "Yarn";
+        return name == "Glue" || name == "Yarn" || name == "Paint";
     }
 }

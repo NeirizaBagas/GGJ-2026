@@ -12,6 +12,8 @@ public class SceneManagement : MonoBehaviour
     [SerializeField] public RectTransform bgPanel;
     [SerializeField] float bgOriPos;
     [SerializeField] float transitionSpeed;
+    [SerializeField] GameObject creditPanel;
+    [SerializeField] GameObject settingPanel;
 
 
     private void Start()
@@ -22,6 +24,16 @@ public class SceneManagement : MonoBehaviour
     public void Scene1()
     {
         SceneManager.LoadScene("Level1");
+    }
+
+    public void Scene2()
+    {
+        SceneManager.LoadScene("Level2");
+    }
+
+    public void Scene3()
+    {
+        SceneManager.LoadScene("Level3");
     }
 
     public void PilihLevel()
@@ -55,6 +67,32 @@ public class SceneManagement : MonoBehaviour
             itemImage[i].SetActive(control);
         }
 
+    }
+
+    public void OpenCreditPanel()
+    {
+        creditPanel.SetActive(true);
+    }
+
+    public void CloseCreditPanel()
+    {
+        creditPanel.SetActive(false);
+    }
+
+    public void OpenSettingPanel()
+    {
+        settingPanel.SetActive(true);
+    }
+
+    public void CloseSettingPanel()
+    {
+        settingPanel.SetActive(false);
+    }
+
+    public void QuitGame()
+    {
+        Application.Quit();
+        Debug.Log("Quit Game");
     }
 
     IEnumerator DelayPanel()

@@ -80,11 +80,18 @@ public class DrawCompleted : MonoBehaviour
         CancelInvoke("SetSFXPlayedFlag");
     }
 
-    public void DeleteAllLines()
+    public void DeleteAllCloneLines()
     {
-        foreach (Transform line in lines)
+        // Mencari semua objek di scene (hati-hati, ini agak berat kalau objekmu ribuan)
+        GameObject[] allObjects = GameObject.FindObjectsByType<GameObject>(FindObjectsSortMode.None);
+
+        foreach (GameObject obj in allObjects)
         {
-            Destroy(line.gameObject);
+            // Cek apakah namanya mengandung "Line"
+            if (obj.name.Contains("Line"))
+            {
+                Destroy(obj);
+            }
         }
     }
 }

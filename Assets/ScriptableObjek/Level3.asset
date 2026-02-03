@@ -12,16 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eade8177ba97fc84d8bc0d42e9e09cad, type: 3}
   m_Name: Level3
   m_EditorClassIdentifier: Assembly-CSharp::MaskData
-  maskLevelName: Paper Mask
+  maskLevelName: Cardboard Mask
   bahanList:
-  - ingredientName: Paper
-    visualObjek: {fileID: -2667495258810006020, guid: 55c1ff4f0f22e154cafd7299e2bb3402, type: 3}
+  - ingredientName: CardBoard
+    visualObjek: {fileID: 21300000, guid: a02e3daab5158a84395184c18c4c8a2a, type: 3}
   - ingredientName: Scissor
     visualObjek: {fileID: -8281880913522801781, guid: 958c04a564672a040b8e213ba22c0bd0, type: 3}
-  - ingredientName: Glue
-    visualObjek: {fileID: 3676817555240589352, guid: bee9208e1d7df45459a0f61f08f87d36, type: 3}
+  - ingredientName: Paint
+    visualObjek: {fileID: -8575756732888332111, guid: 51e730a3538bc3649a60e5a8b9ec1e3d, type: 3}
   craftingRequiredItems:
-  - Paper
+  - CardBoard
   - Scissor
-  - Glue
-  finalMaskSprite: {fileID: 21300000, guid: bcc2c6d847c3093479afdee5069f4b12, type: 3}
+  - Paint
+  finalMaskSprite: {fileID: 21300000, guid: 5f92f8fa9afc433429ff8650c345a71f, type: 3}

@@ -31,6 +31,8 @@ public class DrawingTracer : MonoBehaviour
     [SerializeField] private List<GameObject> strokes;
     [SerializeField] private GameObject pathRef;
 
+    public static Action _OnLevelComplete;
+
     void Start()
     {
         if (targetPath != null && targetPath.Length > 0)
@@ -77,14 +79,14 @@ public class DrawingTracer : MonoBehaviour
         if (Vector2.Distance(p, finalPoint) < finishRadius)
         {
             isFinished = true;
-            levelComplete?.Invoke();
-            StartCoroutine(OnLevelComplete());
+            _OnLevelComplete?.Invoke();
+            //StartCoroutine(OnLevelComplete());
+            OnLevelComplete();
         }
     }
 
-    IEnumerator OnLevelComplete()
+    private void OnLevelComplete()
     {
-        yield return new WaitForSeconds(0.5f);
         //for(int i = 0; i < targetPath.Length; i++)
         //{
         //    targetPath[i].gameObject.SetActive(false);
@@ -102,6 +104,27 @@ public class DrawingTracer : MonoBehaviour
 
         pathRef.SetActive(false);
     }
+
+    //IEnumerator OnLevelComplete()
+    //{
+    //    yield return new WaitForSeconds(0.3f);
+    //    //for(int i = 0; i < targetPath.Length; i++)
+    //    //{
+    //    //    targetPath[i].gameObject.SetActive(false);
+    //    //}
+
+    //    foreach (Transform go in targetPath)
+    //    {
+    //        go.gameObject.SetActive(false);
+    //    }
+
+    //    foreach (GameObject go in strokes)
+    //    {
+    //        go.gameObject.SetActive(false);
+    //    }
+
+    //    pathRef.SetActive(false);
+    //}
 
     void CreateBrush()
     {
